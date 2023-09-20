@@ -1,12 +1,14 @@
 import { Grid, Typography } from '@mui/material';
 import products from '../mocks/products.json';
 import ProductDetail from './ProductDetail';
+import { useParams } from 'react-router-dom';
 
 
 
 const Products = ({ selectedCategory }) => {
+    const { categoryId } = useParams();
     const filteredProducts = products.filter((product) => {
-        return selectedCategory === "all" || product.category === selectedCategory
+        return selectedCategory === "all" || product.category === categoryId;
     })
 
     return (<>

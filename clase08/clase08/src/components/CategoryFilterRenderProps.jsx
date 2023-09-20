@@ -2,6 +2,7 @@ import { FormControl, InputLabel, MenuItem, Select } from "@mui/material";
 import { useState } from "react";
 
 const CategoryFilterRenderProps = ({ children }) => {
+
     const [selectedCategory, setSelectedCategory] = useState("all")
 
     /* quiero un dropdown que me deje filtrar por categoria*/
