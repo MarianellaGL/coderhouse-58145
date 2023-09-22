@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "image": "product1.jpg",
+    "title": "Producto 1",
+    "price": 19.99,
+    "category": "Mujeres",
+    "itHasDues": true,
+    "isAnOffer": false,
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "image": "product2.jpg",
+    "title": "Producto 2",
+    "category": "Hombres",
+    "price": 29.99,
+    "itHasDues": false,
+    "isAnOffer": true,
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "image": "product3.jpg",
+    "title": "Producto 3",
+    "price": 39.99,
+    "category": "Mujeres",
+    "itHasDues": true,
+    "isAnOffer": true,
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "image": "product4.jpg",
+    "title": "Producto 4",
+    "price": 49.99,
+    "category": "Niños",
+    "itHasDues": false,
+    "isAnOffer": false,
+    "stock": 11
+  },
+  {
+    "id": 5,
+    "image": "product5.jpg",
+    "title": "Producto 5",
+    "price": 59.99,
+    "category": "Mujeres",
+    "itHasDues": true,
+    "isAnOffer": true,
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "image": "product6.jpg",
+    "title": "Producto 6",
+    "price": 69.99,
+    "category": "Niños",
+    "itHasDues": false,
+    "isAnOffer": false,
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "image": "product7.jpg",
+    "title": "Producto 7",
+    "price": 79.99,
+    "category": "Mujeres",
+
+    "itHasDues": true,
+    "isAnOffer": true,
+    "stock": 50
+  },
+  {
+    "id": 8,
+    "image": "product8.jpg",
+    "title": "Producto 8",
+    "price": 89.99,
+    "category": "Hombres",
+
+    "itHasDues": false,
+    "isAnOffer": false,
+    "stock": 15
+  },
+  {
+    "id": 9,
+    "image": "product9.jpg",
+    "title": "Producto 9",
+    "price": 99.99,
+    "category": "Mujeres",
+
+    "itHasDues": true,
+    "isAnOffer": true,
+    "stock": 30
+  },
+  {
+    "id": 10,
+    "image": "product10.jpg",
+    "title": "Producto 10",
+    "price": 109.99,
+    "category": "Mujeres",
+
+    "itHasDues": false,
+    "isAnOffer": false,
+    "stock": 20
+  },
+  {
+    "id": 11,
+    "image": "product11.jpg",
+    "title": "Producto 11",
+    "price": 119.99,
+    "category": "Niños",
+
+    "itHasDues": true,
+    "isAnOffer": true,
+    "stock": 18
+  },
+  {
+    "id": 12,
+    "image": "product12.jpg",
+    "title": "Producto 12",
+    "price": 129.99,
+    "category": "Hombres",
+
+    "itHasDues": false,
+    "isAnOffer": false,
+    "stock": 12
+  },
+  {
+    "id": 13,
+    "image": "product13.jpg",
+    "title": "Producto 13",
+    "price": 139.99,
+    "category": "Mujeres",
+
+    "itHasDues": true,
+    "isAnOffer": true,
+    "stock": 1
+  },
+  {
+    "id": 14,
+    "image": "product14.jpg",
+    "title": "Producto 14",
+    "price": 149.99,
+    "category": "Niños",
+
+    "itHasDues": false,
+    "isAnOffer": false,
+    "stock": 10
+  },
+  {
+    "id": 15,
+    "image": "product15.jpg",
+    "title": "Producto 15",
+    "price": 159.99,
+    "category": "Hombres",
+
+    "itHasDues": true,
+    "isAnOffer": true,
+    "stock": 11
+  }
+]
