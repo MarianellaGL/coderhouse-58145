@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "product1.jpg",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_838316-MLA32664034102_102019-O.webp",
     "title": "Producto 1",
     "price": 19.99,
     "category": "Mujeres",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "image": "product2.jpg",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_675280-MLA54976479313_042023-O.webp",
     "title": "Producto 2",
     "category": "Hombres",
     "price": 29.99,
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "image": "product3.jpg",
+    "image": "https://dinobutelli.com.ar/wp-content/uploads/2023/02/zapato-vestir-mujer-stilettos-dinobutelli-cuero-44.jpg",
     "title": "Producto 3",
     "price": 39.99,
     "category": "Mujeres",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "image": "product4.jpg",
+    "image": "https://grimoldimediamanager.grimoldi.com/MediaFiles/Grimoldi/2022/7/27/7584039.jpg",
     "title": "Producto 4",
     "price": 49.99,
     "category": "Niños",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "image": "product5.jpg",
+    "image": "https://equipovallejo.vtexassets.com/arquivos/ids/237950-800-auto?v=638176961033300000&width=800&height=auto&aspect=true",
     "title": "Producto 5",
     "price": 59.99,
     "category": "Mujeres",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "image": "product6.jpg",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_602562-MLA50433537723_062022-O.webp",
     "title": "Producto 6",
     "price": 69.99,
     "category": "Niños",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "image": "product7.jpg",
+    "image": "https://acdn.mitiendanube.com/stores/001/668/651/products/zapato-mujer-copy-11-5a8341c210e6e526b316644009498688-1024-1024.webp",
     "title": "Producto 7",
     "price": 79.99,
     "category": "Mujeres",
@@ -72,7 +72,7 @@
   },
   {
     "id": 8,
-    "image": "product8.jpg",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_801930-MLA70455011030_072023-O.webp",
     "title": "Producto 8",
     "price": 89.99,
     "category": "Hombres",
@@ -83,7 +83,7 @@
   },
   {
     "id": 9,
-    "image": "product9.jpg",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_648307-MLA54930455436_042023-O.webp",
     "title": "Producto 9",
     "price": 99.99,
     "category": "Mujeres",
@@ -94,7 +94,7 @@
   },
   {
     "id": 10,
-    "image": "product10.jpg",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_854983-MLA51202544847_082022-O.webp",
     "title": "Producto 10",
     "price": 109.99,
     "category": "Mujeres",
@@ -105,7 +105,7 @@
   },
   {
     "id": 11,
-    "image": "product11.jpg",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_683469-MLA49005416779_022022-O.webp",
     "title": "Producto 11",
     "price": 119.99,
     "category": "Niños",
@@ -116,7 +116,7 @@
   },
   {
     "id": 12,
-    "image": "product12.jpg",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_679576-MLA53601592095_022023-O.webp",
     "title": "Producto 12",
     "price": 129.99,
     "category": "Hombres",
@@ -127,7 +127,7 @@
   },
   {
     "id": 13,
-    "image": "product13.jpg",
+    "image": "https://dinobutelli.com.ar/wp-content/uploads/2023/07/zapato-mujer-oficina-azafata-1.jpg",
     "title": "Producto 13",
     "price": 139.99,
     "category": "Mujeres",
@@ -138,7 +138,7 @@
   },
   {
     "id": 14,
-    "image": "product14.jpg",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_842523-MLA53176937817_012023-O.webp",
     "title": "Producto 14",
     "price": 149.99,
     "category": "Niños",
@@ -149,7 +149,7 @@
   },
   {
     "id": 15,
-    "image": "product15.jpg",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_634426-MLA53776663321_022023-O.webp",
     "title": "Producto 15",
     "price": 159.99,
     "category": "Hombres",

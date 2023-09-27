@@ -1,9 +1,11 @@
 import { Modal, Typography } from "@mui/material";
 import PaymentIcon from '@mui/icons-material/Payment'
 import ItemCount from "../common/ItemCount";
-import { useState } from "react";
+import { useContext, useState } from "react";
+import { useCartContext } from "../../context/CartContext";
 const ProductInfo = ({ product, open, setOpen }) => {
-    const { image, title, price, isAnOffer, itHasDues, stock } = product
+    const { id, image, title, price, isAnOffer, itHasDues, stock } = product
+    const { addToCart } = useCartContext()
     const [quantityInCart, setQuantityInCart] = useState(0);
 
 
@@ -14,14 +16,22 @@ const ProductInfo = ({ product, open, setOpen }) => {
 
     // Función para manejar la compra
     const handleAddToCart = (count) => {
+
+
         setQuantityInCart(count);
         console.log('agregado', count)
+        if (count > 0) {
+            addToCart({
+                id, title, image, price, quantity: count
+            })
+        }
     };
 
 
     return (<>
         <Modal open={true} onClose={handleClose}>
             <div className="modal-content">
+                <img style={{ width: "70%" }} src={image} />
                 <Typography variant="h4">{title}</Typography>
                 <Typography variant="h6" color="primary"> ${price.toFixed(2)}</Typography>
                 <Typography>stock: {stock}</Typography>
